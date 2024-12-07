@@ -1,16 +1,13 @@
-# projeto_flutterdart_una
+# projetomobile
 
-A new Flutter project.
+# Projeto Flutter/Dart
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2>Introdução</h2>
+<p>Projeto para criação de um aplicativo mobile.</p>
+<h2>Techs</h2>
+<ul>
+  <li>Dart</li>
+  <li>HTML</li>
+  <li>Flutter</li>
+  <li>Kotlin</li>
+</ul>
